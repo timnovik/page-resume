@@ -1,0 +1,48 @@
+.photo{
+    height: 55%;
+    width: 37%;
+    border: 3px solid aqua;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    margin: 5px 6.5% 5px 6.5%;
+}
+.main_img {
+    text-align: center;
+    margin: 0 0 0 0;
+}
+.head {
+    background: cyan;
+}
+.members {
+    text-align: center;
+    font-size: 40px;
+    background: orange;
+}
+body {
+    margin: 20px 0 0 0;
+    display: grid;
+}
+
+.team_description {
+    background: springgreen;
+}
+.description {
+    text-align: center;
+    font-size: 30px;
+}
+.footer {
+    position: fixed;
+    left: 0; bottom: 94%;
+    padding: 10px;
+    background: orange;
+    color: blue;
+    width: 100%;
+}
+.f_href {
+    margin: 0 25px 0 25px;
+}
+.projects {
+    background: deepskyblue;
+    text-align: center;
+    font-size: 30px;
+}
